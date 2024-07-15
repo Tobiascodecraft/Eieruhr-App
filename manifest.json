@@ -1,0 +1,17 @@
+{
+    "name": "Tobis Eieruhr",
+    "short_name": "Eieruhr",
+    "theme_color": "#262626",
+    "background_color": "#262626",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "hamburger_menu_navbar_options_icon_196495.png",
+        "sizes": "48x48",
+        "type": "image/png"
+      }
+    ]
+  }

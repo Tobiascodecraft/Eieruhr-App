@@ -1,0 +1,43 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10%;
+    color: white;
+    background-color: rgb(41, 41, 41);
+}
+
+h1{
+    text-align: center;
+}
+
+.navbar-img{
+    width: 60px;
+}
+
+#timer{
+    font-size: 24px;
+    font-weight: 550;
+}
+
+.start-btn{
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    transition: 0.2s;
+}
+
+.start-btn:hover{
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+}
+
